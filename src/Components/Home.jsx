@@ -15,8 +15,8 @@ export default function Home()
                 <div className="flip">
                 <p className="p1">Also Available On</p>
                 
-                <img src="public/images/flipkart.png" alt="flipkart"></img> 
-                <img src="public/images/amazon.png" alt="amazon"></img>
+                <img src="/images/flipkart.png" alt="flipkart"></img> 
+                <img src="/images/amazon.png" alt="amazon"></img>
                 </div>
 
             </div>
